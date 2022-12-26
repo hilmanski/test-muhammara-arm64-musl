@@ -1,0 +1,9 @@
+{
+  "name": "muhammara-docker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "muhammara": "3.6.0-beta.1"
+  }
+}

@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  pdf-services:
+    build:
+      context: .
+    env_file:
+      - .env
+    command:
+      node /app/index.js
